@@ -1,0 +1,12 @@
+.fondo{
+    width: 100%;
+    height: 41em;
+    background-image: url(/src/assets/img/FondoD.png);
+    background-size: cover;
+    color: aliceblue;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+body{
+    margin: 0%;
+}
